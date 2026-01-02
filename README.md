@@ -16,6 +16,30 @@ It’s designed to generate clean, consistent game-ready sounds using classic bu
 
 ---
 
+## Project structure
+
+```
+ADSRLab/
+  adsrlab/
+    __init__.py
+    dsp.py
+    envelope.py
+    export.py
+  scripts/
+    generate_assets.py
+  assets/        # generated outputs (gitignored)
+  sounds/        # generated outputs (gitignored)
+  dist/          # generated outputs (gitignored)
+  README.md
+  LICENSE
+  requirements.txt
+  .gitignore
+  pyproject.toml
+
+```
+
+---
+
 ## What this repo does best
 
 Procedural audio is ideal for:

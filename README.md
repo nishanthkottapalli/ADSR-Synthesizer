@@ -1,6 +1,6 @@
 # ADSRLab
 
-**ADSRLab** is a small, focused toolkit for **procedural SFX synthesis for games** — built in Python.
+**ADSRLab** is a small, focused toolkit for **procedural SFX synthesis for games** - built in Python.
 
 It’s designed to generate clean, consistent game-ready sounds using classic building blocks:
 

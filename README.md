@@ -62,36 +62,6 @@ This project is intentionally **minimal and explicit**, avoiding opaque abstract
 
 ---
 
-## Project structure
-
-```
-
-ADSRLab/
-adsrlab/
-**init**.py
-dsp.py          # oscillator + DSP primitives
-envelope.py     # ADSR envelope logic
-export.py       # WAV / MP3 export helpers
-
-scripts/
-generate_assets.py
-
-assets/           # generated outputs (gitignored)
-sounds/           # generated outputs (gitignored)
-dist/             # packaged outputs (gitignored)
-
-README.md
-LICENSE
-requirements.txt
-pyproject.toml
-.gitignore
-
-````
-
-Generated artifacts are intentionally excluded from version control.
-
----
-
 ## Quick start
 
 ### Requirements

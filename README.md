@@ -156,6 +156,3 @@ TF141 Labs is a fictional-inspired lab name.
 No affiliation with Activision or Call of Duty.
 </sub>
 ```
-
-## Project structure
-

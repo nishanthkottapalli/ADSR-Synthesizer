@@ -125,4 +125,3 @@ Just systems that survive contact with reality.
 TF141 Labs is a fictional-inspired lab name.  
 No affiliation with Activision or Call of Duty.
 </sub>
-```

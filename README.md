@@ -1,6 +1,6 @@
-# ADSRLab
+# ADSR Synthesizer
 
-**ADSRLab** is a small, focused toolkit for **procedural SFX synthesis for games** - built in Python.
+**ADSR Synthesizer**(ADSR-Synthesizer) is a small, focused toolkit for **procedural SFX synthesis for games** - built in Python.
 
 It’s designed to generate clean, consistent game-ready sounds using classic building blocks:
 
@@ -12,7 +12,7 @@ It’s designed to generate clean, consistent game-ready sounds using classic bu
 - **Export** (WAV) and optional **MP3 encoding** via FFmpeg
 - Optional **asset packaging** (e.g., zip bundles for game builds)
 
-> This repository is currently intended for private/internal use under **TF141 Labs**.
+> This repository is currently intended for private/internal use by members of **TF141 Labs** - applied engineering lab of **NISHANTH MURTHY KOTTAPALLI** (Proprietership).
 
 ---
 

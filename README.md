@@ -87,7 +87,7 @@ Asset generation is typically driven via scripts in `scripts/`.
 
 This repository is **public for visibility and reference**, but the code is **proprietary**.
 
-* Intended for **internal use** by TF141 Labs
+* Intended for **internal use** by Nishanth Kottapalli and authorized entities with commercial licence only
 * Not licensed for external reuse, redistribution, or derivative works
 * No client deliverables or production assets are included
 
@@ -107,21 +107,3 @@ See the `LICENSE` file for full terms.
 
 ---
 
-## About TF141 Labs
-
-TF141 Labs is the applied engineering lab of **NISHANTH MURTHY KOTTAPALLI**, focused on:
-
-* Reproducible infrastructure
-* AI and systems engineering
-* Practical, debrief-first technical work
-
-No hype.
-No client work.
-Just systems that survive contact with reality.
-
----
-
-<sub>
-TF141 Labs is a fictional-inspired lab name.  
-No affiliation with Activision or Call of Duty.
-</sub>
